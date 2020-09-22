@@ -52,9 +52,5 @@ function actionApplyer(base, arrayOfFun) {
 
     return result
 }
-//(1000+(13*2) )%7
-//function(a){ return a * 2 },
-//function(a){ return a + 1000},
-//function(a){ return a % 7 }
-=======
->>>>>>> 13b77b2698c25a69a08af34f2f146f6349cc41b7
+
+
