@@ -52,5 +52,3 @@ function actionApplyer(base, arrayOfFun) {
 
     return result
 }
-
-
