@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Your code here
 function saturdayFun(string = 'roller-skate') {
 
@@ -56,3 +57,5 @@ function actionApplyer(base, arrayOfFun) {
 //function(a){ return a * 2 },
 //function(a){ return a + 1000},
 //function(a){ return a % 7 }
+=======
+>>>>>>> 13b77b2698c25a69a08af34f2f146f6349cc41b7
